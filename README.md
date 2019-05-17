@@ -1,7 +1,6 @@
 # alpha-beta-prunning
 Alpha-beta-prunning to play "damas inglesas"
 
+Requirements:
 
-TO COMPILE WHILE CODING
-
-" nodemon ./compile.js alpha-beta/alpha-beta.lisp --config nodemon.json "
+Node.js and CLISP installed 
